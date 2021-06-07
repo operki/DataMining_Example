@@ -1,0 +1,2 @@
+C:\Users\alexey.popov\RiderProjects\DataMining_Example\DecisionsWorker\obj\Debug\DecisionsWorker.csprojAssemblyReference.cache
+C:\Users\alexey.popov\RiderProjects\DataMining_Example\DecisionsWorker\obj\Debug\DecisionsWorker.csproj.CoreCompileInputs.cache

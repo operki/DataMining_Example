@@ -1,0 +1,2 @@
+C:\Users\alexey.popov\RiderProjects\DataMining_Example\ConverterExample\obj\Debug\ConverterExample.csprojAssemblyReference.cache
+C:\Users\alexey.popov\RiderProjects\DataMining_Example\ConverterExample\obj\Debug\ConverterExample.csproj.CoreCompileInputs.cache

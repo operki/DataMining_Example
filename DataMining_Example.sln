@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderExample", "LoaderExample\LoaderExample.csproj", "{5DE3657B-7F2B-4353-9393-551AD35C0821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterExample", "ConverterExample\ConverterExample.csproj", "{DA238CEA-0FD8-4206-8F22-707B734CA7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionsWorker", "DecisionsWorker\DecisionsWorker.csproj", "{BE3E2546-8248-4CB2-BCD0-E7E69172150E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE3657B-7F2B-4353-9393-551AD35C0821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE3657B-7F2B-4353-9393-551AD35C0821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE3657B-7F2B-4353-9393-551AD35C0821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE3657B-7F2B-4353-9393-551AD35C0821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA238CEA-0FD8-4206-8F22-707B734CA7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA238CEA-0FD8-4206-8F22-707B734CA7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA238CEA-0FD8-4206-8F22-707B734CA7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA238CEA-0FD8-4206-8F22-707B734CA7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3E2546-8248-4CB2-BCD0-E7E69172150E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3E2546-8248-4CB2-BCD0-E7E69172150E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3E2546-8248-4CB2-BCD0-E7E69172150E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3E2546-8248-4CB2-BCD0-E7E69172150E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
