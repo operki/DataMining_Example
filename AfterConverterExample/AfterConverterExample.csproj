@@ -8,7 +8,7 @@
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>DecisionsWorker</RootNamespace>
-        <AssemblyName>DecisionsWorker</AssemblyName>
+        <AssemblyName>AfterConverterExample</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <LangVersion>default</LangVersion>

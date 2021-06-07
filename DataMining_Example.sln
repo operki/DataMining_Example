@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoaderExample", "LoaderExam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterExample", "ConverterExample\ConverterExample.csproj", "{DA238CEA-0FD8-4206-8F22-707B734CA7F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionsWorker", "DecisionsWorker\DecisionsWorker.csproj", "{BE3E2546-8248-4CB2-BCD0-E7E69172150E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterConverterExample", "AfterConverterExample\AfterConverterExample.csproj", "{BE3E2546-8248-4CB2-BCD0-E7E69172150E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
